@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>PersonnelEntryList.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>EmployeeDelegate.qml</file>
+        <file>LabeledTextField.qml</file>
+    </qresource>
+</RCC>
