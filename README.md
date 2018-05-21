@@ -7,6 +7,18 @@ This is a cross-platform application that will work for Linux, Mac and Windows.
 It should also work with Android and iOS, however it may need some cosmetic changes to make it look good there.
 This is written with and requires the Qt toolkit.
 
+Features:
+* Employees stored in one of 3 different derived Employee classes
+  based on their type - MonthlyEmployee, HourlyEmployee, or SalaryEmployee
+  (this shows polymorphism)
+* There is a simple user interface that shows each employee in a QML listview
+  presented from C++ QAbstractListModel derived model.
+* Users can be added and removed.
+* Salary is calculated differently per Employee type, performed in the
+  salary method of each Employee type.
+* Employees can be saved. The next time the application launches,
+  previously saved employees are loaded back into the app.
+
 ## Requires
 
 * Qt rev 5.8+
