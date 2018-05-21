@@ -1,5 +1,5 @@
-#Personnel Management
-* * *
+Personnel Management
+====================
 
 A Simple Personnel Management applicaton demo written in Qt/QML.
 
