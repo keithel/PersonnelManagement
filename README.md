@@ -7,7 +7,8 @@ This is a cross-platform application that will work for Linux, Mac and Windows.
 It should also work with Android and iOS, however it may need some cosmetic changes to make it look good there.
 This is written with and requires the Qt toolkit.
 
-Features:
+## Features
+
 * Employees stored in one of 3 different derived Employee classes
   based on their type - MonthlyEmployee, HourlyEmployee, or SalaryEmployee
   (this shows polymorphism)
