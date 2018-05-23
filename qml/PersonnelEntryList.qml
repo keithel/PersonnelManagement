@@ -22,8 +22,6 @@ import QtQuick.Layouts 1.3
 //import name.kyzivat.PersonnelManagement 1.0;
 
 Page {
-    width: 600
-    height: 400
 
     ColumnLayout {
         anchors.fill: parent

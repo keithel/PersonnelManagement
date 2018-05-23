@@ -5,5 +5,6 @@
         <file>qtquickcontrols2.conf</file>
         <file>EmployeeDelegate.qml</file>
         <file>LabeledTextField.qml</file>
+        <file>PersonnelTable.qml</file>
     </qresource>
 </RCC>
